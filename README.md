@@ -1,7 +1,7 @@
 # projekat-os2
-Implementacija uprošćenog školskog fajl sistema
-Fajl sistem je namenjen za standardni hard disk sa jednom particijom. Za pristup particiji na hard disku
-obezbeđena je apstrakcija u vidu klase Partition koja pruža sve potrebne operacije za
-pristup podacima na disku. Sistem treba da obezbedi montiranje particije u sistem. Potrebno je
-obezbediti mogućnost montiranja particije sa postojećim fajl sistemom, kao i montiranje
-prazne particije i njeno kasnije formatiranje na školski fajl sistem. 
+
+Implementacija uprošćenog fajl sistema, realizacija projekta na predmetu Operativni Sistemi 2, godina 2019/2020, Elektrotehnički fakultet u Beogradu.
+
+Sajt predmeta: http://os.etf.bg.ac.rs/OS2/
+Programski jezik: C++
+IDE: Microsoft Visual Studio 2017
